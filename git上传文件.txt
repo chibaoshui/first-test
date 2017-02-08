@@ -1,0 +1,8 @@
+//添加 .表示所有文件
+git add .
+
+//添加注释
+git commit -m "描述"
+
+//本地分支：远程分支 matser:master
+git push origin matser:master
